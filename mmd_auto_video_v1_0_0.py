@@ -1,6 +1,6 @@
 bl_info = {
     "name": "MMD Auto Video V1.0 - Foot Contact Stage",
-    "author": "OpenAI",
+    "author": "fannyyy",
     "version": (1, 0, 0),
     "blender": (4, 2, 0),
     "location": "View3D > Sidebar > MMD Auto",
